@@ -1,0 +1,31 @@
+Set,Name,Starter,Move Cost,Task 1 Cost,Task 1 Reward,Task 1 Repeat,Task 2 Cost,Task 2 Reward,Task 2 Repeat,Task 3 Cost,Task 3 Reward,Task 3 Repeat
+Base,Ponyville: Town Square,Yes,1,"1 Move, 1 Cube",1 Cube,Yes,2 Info,1 Trash,Yes,3 Help,1 Help Token/1 Info Token/1 Move Token,Yes
+Base,Ponyville: Carousel Boutique,No,1,2 Move,1 Card,No,4 Help,1 New Cube,No,8 Help,2 Cube,No
+Base,Ponyville: Sugar Cube Corner,No,2,3 Info,1 Red Cube,No,4 Help,"1 Cube, 1 Info Token",No,8 Help,3 Cube,No
+Base,Ponyville: Fluttershy's Cottage,No,2,3 Info,1 Blue Cube,No,1 Cube,2 Trash,No,8 Help,3 Cube,No
+Base,Castle of the Two Sisters,No,3,2 Help,1 Red Cube,No,2 Cube,2 Cube,No,6 Help,3 Cube,No
+Base,Sweet Apple Acres,No,3,2 Help,1 Green Cube,No,1 Cube,"1 Help Token, 1 Info Token",No,6 Help,3 Cube,No
+Base,Ponyville: Golden Oak Library,No,2,3 Info,1 Green Cube,No,1 Cube,"1 Info Token, 1 Draw",No,8 Help,3 Cube,No
+Base,Ponyville: Cloud Condo,No,3,2 Help,1 Blue Cube,No,4 Info,3 New Cube,No,6 Help,3 Cube,No
+Familar Faces,Evertree Forest,No,1,"2 Move, 1 Cube",1 Cube,Yes,2 Move,1 Red Cube,No,6 Help,3 Resource Token,No
+Familar Faces,Sire's Hollow,No,2,"1 Info, 1 Cube",1 Cube,Yes,3 Info,"1 Red Cube, 1 Trash",No,6 Move,"1 Cube, 1 Action",No
+Familar Faces,Canterlot Archives,No,1,3 Info,3 Draw,Yes,3 Info,"1 Cube, 1 Delay",No,8 Help,3 Cube,No
+Familar Faces,Discord's Place,No,2,3 Help,"1 Trash, 1 Resource Token",Yes,5 Help,2 Cube,No,6 Help,"1 Cube, 1 Ally",No
+Familar Faces,Winsome Falls,No,3,3 Help,1 Cloud,No,3 Info,"1 Draw, 1 Green Cube",No,4 Help,"1 Cube, 1 Resource Token",No
+True Talents,Crystal Empire Square,Yes,2,1 Move,1 Draw/1 Trash,Yes,"2 Info, 1 Cube",1 Cube,Yes,3 Move,1 Resource Token,Yes
+True Talents,Maretopolis,No,3,3 Help,2 Resource Token,No,3 Info,1 Cube,No,6 Help,3 Cube,No
+True Talents,Sweet Feather Sanctuary,No,1,2 Discard,3 Resource Token,No,3 Move,"1 Green Cube, 1 Info Token",No,4 Help,"1 Red Cube, 1 Blue Cube",No
+True Talents,Cutie Mark Crusaders' Clubhouse,No,2,3 Help,3 Draw,No,3 Info,"1 Red Cube, 1 Help Token",No,4 Move,"1 Blue Cube, 1 Green Cube",No
+True Talents,Ponyville: Schoolhouse,No,1,3 Info,3 Delay,Yes,3 Help,"1 Blue Cube, 1 Move Token",No,4 Info,"1 Red Cube, 1 Green Cube",No
+Princess Pageantry,Canterlot Castle,Yes,1,1 Discard,1 Resource Token,Yes,2 Info,1 Draw,Yes,1 Cube,1 Refresh per Player,Yes
+Princess Pageantry,Ponhenge,No,2,2 Help,1 Trade,Yes,3 Move,"1 Draw, 1 Cube",No,8 Help,3 Green Cube,No
+Princess Pageantry,Ponyville: Antique Market,No,1,3 Help,1 Cube,No,3 Info,1 Cube,No,3 Move,1 Cube,No
+Princess Pageantry,Yakyakistan,No,3,3 Discard,3 Resource Token,No,4 Help,2 Resource Token,No,8 Help,3 Red Cube,No
+Princess Pageantry,Froggy Bottom Bog,No,2,2 Help,1 Trash,No,3 Help,2 Resource Token,No,8 Help,3 Blue Cube,No
+Collision Course,Cybertron: Autobot HQ,Yes,1,"1 Move/1 Energon, 1 Cube",1 Cube,Yes,2 Info/2 Energon,1 Trash,Yes,3 Help/3 Energon,1 Help Token/1 Info Token/1 Move Token,Yes
+Collision Course,Manehattan,No,3,2 Resource Token,"2 Draw, 2 Trash",No,3 Info,1 Buy,No,6 Help,"2 Draw, 2 Cube",No
+Collision Course,Cybertron: The Ancient Titans,No,2,2 Info,1 Draw,No,2 Move,1 Cube,No,8 Help,3 Blue Cube,No
+Collision Course,Cybertron: The Wastelands,No,1,3 Help,2 Resource Token/1 Cube,No,1 Cloud,2 Draw,No,8 Help,3 Red Cube,No
+Collision Course,Cybertron: The Outskirts,No,2,3 Info,1 Draw,No,5 Help,"1 Resource Token, 1 Cube",No,8 Help,3 Cube,No
+Collision Course,Cybertron: Metro City,No,3,3 Info,3 Draw,No,3 Help,2 Delay,No,8 Help,3 Green Cube,No
+Collision Course,Las Pegasus,No,2,2 Info,1 Draw,No,4 Move,1 Buy,No,6 Help,1 Cube,No
