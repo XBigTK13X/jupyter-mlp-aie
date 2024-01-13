@@ -1,0 +1,107 @@
+Set,Name,Copies,Cost,Reward,Ability Cost,Ability Reward,Trait,Keyword
+Base,Party-Goer,2,3 Help,,,1 Move Token,Moon,
+Base,Gummy,1,5 Help,3 Help,,Condition,,Pet
+Base,Winona,1,5 Help,3 Help,,Condition,,Pet
+Base,Sweetie Belle,1,4 Help,"1 Help, 1 Info",,1 Info Token,Star,Crusader
+Base,Student,2,3 Help,,,1 Info Token,Star,
+Base,Mr. & Mrs. Cake,2,3 Help,,,1 Help Token,Mountain,
+Base,Dr. Whooves,1,5 Help,"1 Help, 1 Info, 1 Move",,1 Cube,Mountain,
+Base,Princess Celestia,1,9 Help,"3 Help, 3 Info, 3 Move",Remove,-3 Cloud,"Moon, Mountain, Star",
+Base,Tank,1,5 Help,3 Help,,Condition,,Pet
+Base,Apple Bloom,1,4 Help,"1 Info, 1 Move",,1 Help Token,Mountain,Crusader
+Base,Scootaloo,1,4 Help,"1 Help, 1 Move",,1 Move Token,Moon,Crusader
+Base,DJ Pon-3,1,3 Help,"1 Help, 1 Move",,1 Draw,Star,
+Base,Sassaflash,1,4 Help,2 Move,,1 Draw,Moon,
+Base,Trixie,1,4 Info,"2 Info, 2 Move, 1 Cloud",,1 Cube,Star,
+Base,Mayor Mare,1,2 Help,,,1 Buy,Mountain,
+Base,Opalescene,1,5 Help,3 Help,,Condition,,Pet
+Base,Angel,1,5 Help,3 Help,,Condition,,Pet
+Base,Gilda,1,4 Move,"3 Help, 2 Info, 1 Cloud",,1 Trash per Player,,
+Base,Princess Luna,1,7 Help,"4 Help, 3 Info, 1 Cloud",,Condition,"Moon, Mountain, Star",
+Base,Owlowlicious,1,5 Help,3 Help,,Condition,,Pet
+Base,Spike,1,4 Info,,,2 Draw,,
+Base,Big Mac,1,3 Help,"1 Help, 1 Info",Condition,2 Move,Mountain,
+Base,Sturdy Townpony,1,2 Help,,,1 Location,Mountain,
+Familiar Faces,"Princess Luna, Dream Guide",1,6 Help,"3 Help, 1 Blue Cube",Condition,3 Info,"Moon, Star",Leader
+Familiar Faces,Peewee,1,4 Info,"1 Info, 2 Move",,Condition,"Moon, Star",Pet
+Familiar Faces,"Rainbow Dash, Newbie Wonderbolt",2,3 Move,"1 Help, 1 Move",Discover,-1 Cloud,"Moon, Mountain",Wonderbolt
+Familiar Faces,"Princess Celestia, Raiser of the Sun",1,6 Info,"2 Help, 2 Info, 2 Move",,1 Draw,"Mountain, Star",Leader
+Familiar Faces,Spitfire,2,3 Move,"1 Help, 1 Move",Discover,Condition,Mountain,"Leader, Wonderbolt"
+Familiar Faces,Soarin',2,2 Help,"1 Info, 1 Move",Discover,Condition,Star,Wonderbolt
+Familiar Faces,Blaze,2,2 Info,"1 Help, 1 Move",Discover,Condition,Moon,Wonderbolt
+Familiar Faces,Maud Pie,2,3 Help,2 Info,Condition,1 Red Cube,Mountain,
+Familiar Faces,Snips and Snails,1,2 Help,1 Help,,Condition,"Moon, Mountain",
+Familiar Faces,Joe,2,2 Help,1 Help,,1 Draw,,
+Familiar Faces,Dragonlord Ember,1,5 Info,"2 Info, 2 Move",,Condition,Mountain,Leader
+Familiar Faces,"Fluttershy, Discord's Friend",1,5 Help,3 Help,,Condition,"Moon, Star",
+Familiar Faces,"Twilight Sparkle, Mentor",1,6 Help,"1 Help, 2 Info, 1 Red Cube",,Condition,"Moon, Mountain, Star",Leader
+Familiar Faces,Captain Wuzz,2,3 Move,1 Info,,Condition,Moon,
+Familiar Faces,Sir McBiggun,2,3 Help,1 Move,,Condition,Mountain,
+Familiar Faces,Garbunkle,2,3 Info,1 Help,,Condition,,
+True Talents,Hum Drum,1,7 Help,"2 Help, -1 Cloud",Condition,2 Draw,Mountain,
+True Talents,Zapp,1,7 Help,"2 Move, -1 Cloud",Condition,1 Help Token,Moon,
+True Talents,Saddle Rager,1,7 Help,"2 Help, -1 Cloud",Condition,1 Draw,Mountain,
+True Talents,Radiance,1,7 Help,"3 Help, -1 Cloud",Condition,1 Refresh,Moon,
+True Talents,Mistress Mare-velous,1,7 Help,"2 Info, -1 Cloud",Condition,1 Trash,Mountain,
+True Talents,Masked Matter-horn,1,7 Help,"2 Info, -1 Cloud",Condition,1 Info Token,Star,
+True Talents,Fili-second,1,7 Help,"3 Move, -1 Cloud",Condition,1 Move Token,Star,
+True Talents,Princess Cadance,1,7 Help,"3 Help, 2 Info, 1 Move, 1 Red Cube",Condition,,"Moon, Mountain",Leader
+True Talents,Shining Armor,1,6 Help,"2 Help, 1 Move, 1 Blue Cube",Condition,3 Move,"Mountain, Star",Leader
+True Talents,"Rarity, Compassionate Big Sister",1,5 Help,3 Info,,Condition,"Moon, Star",Leader
+True Talents,"Rainbow Dash, Cool ""Big Sister""",1,5 Help,3 Move,,Condition,"Mountain, Star",Leader
+True Talents,"Applejack, Protective Big Sister",1,5 Help,3 Help,,Condition,"Moon, Mountain",Leader
+True Talents,"Apple Bloom, Zecora's Supporter",1,3 Move,2 Help,,Condition,"Mountain, Star",Crusader
+True Talents,Gabby,2,4 Help,"1 Help, 1 Move",,Condition,Mountain,Crusader
+True Talents,"Discord, Honorary Mark Crusader",2,4 Help,"1 Info, 1 Move",,Condition,"Moon, Mountain",Crusader
+True Talents,Pipsqueak,2,3 Move,"1 Help, 1 Move",Discover,Condition,Mountain,Classmate
+True Talents,Silver Spoon,2,3 Info,"1 Info, 1 Move",Discover,Condition,Moon,Classmate
+True Talents,Bulk Biceps,2,2 Move,,,1 Draw,Mountain,Wonderbolt
+True Talents,Cheerilee,2,2 Info,"1 Help, 1 Move",Discover,Condition,Moon,
+True Talents,Babs Seed,2,2 Info,"1 Help, 1 Info, 1 Cloud",Discover,Condition,Star,Crusader
+True Talents,Twist,2,3 Help,"1 Help, 1 Info",Discover,Condition,Star,Classmate
+True Talents,Diamond Tiara,2,2 Help,1 Cloud,Discover,Condition,"Moon, Star","Leader, Classmate"
+Princess Pageantry,Cheese Sandwich,2,4 Info,"2 Help, 1 Info",,1 Help Token,Star,
+Princess Pageantry,Iron Will,1,3 Move,"3 Move, 1 Cloud",,1 Delay,"Moon, Mountain",
+Princess Pageantry,Thorax,1,7 Help,"2 Help, 1 Info",,,"Moon, Mountain, Star",Leader
+Princess Pageantry,Zecora,2,4 Info,"1 Info, 1 Move",,Condition,"Moon, Star",
+Princess Pageantry,"Starlight Glimmer, A Pupil in Need",1,4 Help,"1 Help, 2 Info, 2 Move, 1 Cloud",,Condition,Moon,
+Princess Pageantry,Prince Rutherford,2,5 Move,1 Move,,1 Draw per Player,Mountain,Leader
+Princess Pageantry,Granny Smith,1,5 Help,2 Info,,1 Cube,"Moon, Mountain",
+Princess Pageantry,Hondo Flanks & Cookie Crumbles,1,5 Help,"1 Help, 2 Info",,1 Info Token,"Mountain, Star",
+Princess Pageantry,Mr. & Mrs. Shy,1,5 Help,2 Help,,1 Help Token,"Moon, Star",
+Princess Pageantry,Spearhead,1,4 Help,"1 Help, 2 Move",,Condition,Mountain,
+Princess Pageantry,Sunburst,2,4 Info,2 Info,Discover,Condition,"Moon, Mountain, Star",
+Princess Pageantry,Flurry Heart,1,4 Help,"2 Info, 1 Move",,Condition,"Moon, Star",
+Princess Pageantry,Twilight Velvet & Night Light,1,5 Help,"1 Help, 1 Info, 1 Move",,1 Draw,"Moon, Star",
+Princess Pageantry,Philomena,1,4 Help,"1 Help, 1 Move",,Condition,"Mountain, Star",Pet
+Princess Pageantry,Bow Hothoof & Windy Whistles,1,5 Help,"2 Info, 1 Move",,1 Move Token,"Mountain, Star",
+Princess Pageantry,Igneous Rock Pie & Cloudy Quartz,1,5 Help,"1 Info, 2 Move",,1 Refresh,"Moon, Mountain",
+Princess Pageantry,Nurse Redheart,1,3 Info,"1 Help, 1 Cloud",,1 Refresh,Moon,
+Princess Pageantry,"Twilight Sparkle, A Student, Indeed",1,4 Help,3 Help,,Condition,Mountain,
+Collision Course,Bumblebee,2,5 Help,"1 Help, 1 Info, 1 Move, 1 Green Energon",,1 Help Token,"Moon, Moon",Autobot
+Collision Course,Windblade,2,4 Move,"1 Help, 1 Blue Energon",,Condition,"Star, Star, Star",Autobot
+Collision Course,Arcee,2,4 Help,"1 Help, 2 Info, 1 Red Energon",,Condition,"Moon, Star",Autobot
+Collision Course,Ratchet,2,4 Help,"1 Help, 1 Red Energon",,Condition,"Mountain, Star",Autobot
+Collision Course,Knock Out,2,3 Move,"2 Help, 2 Info, 1 Blue Energon",,2 Delay,"Mountain, Star",Decepticon
+Collision Course,The Dinobots,2,4 Help,"1 Info, 2 Move, 1 Green Energon",,1 Delay,"Mountain, Mountain",Autobot
+Collision Course,The Extended Apple Family,2,3 Help,1 Help,,1 New Cube,Mountain,
+Collision Course,Robo-Discord,1,5 Help,"1 Help, 1 Blue Energon",,1 Trash,"Mountain, Star",
+Collision Course,The Mini-Cassettes,1,4 Move,"1 Help, 1 Info, 1 Move, 1 Energon",,Condition,"Mountain, Mountain, Mountain",Decepticon
+Collision Course,Optimus Prime,1,7 Help,"2 Help, 2 Info, 2 Move, 1 Red Energon",,Condition,"Moon, Moon, Moon","Autobot, Leader"
+Collision Course,The Young Six,1,6 Help,2 Help,,Condition,"Moon, Mountain, Star",
+Collision Course,Greenlight,1,5 Help,1 Help,,1 Buy,"Moon, Moon",Autobot
+Collision Course,Superion,1,5 Help,"1 Help, 1 Info, 1 Move, 1 Energon",Discover,Condition,"Moon, Mountain, Star",Autobot
+Collision Course,Wildwheel,1,4 Help,"3 Help, 3 Move, 1 Cloud, 1 Blue Energon",Discover,Condition,"Mountain, Mountain",Decepticon
+Collision Course,Grimlock,1,4 Info,"1 Help, 1 Red Energon",,1 Draw,"Mountain, Mountain","Autobot, Leader"
+Collision Course,Soundwave,1,4 Info,"1 Help, 1 Move, 1 Cloud, 1 Red Energon",,3 Resource Token,"Star, Star","Decepticon, Leader"
+Collision Course,Gauge,1,4 Info,"1 Move, 1 Green Energon",,"1 Draw, 1 Resource Token","Star, Star",Autobot
+Collision Course,Octavia Melody,1,3 Help,1 Info,,1 Resource Token,Moon,
+Collision Course,Lofty & Holiday,1,3 Help,2 Move,,Condition,"Moon, Mountain",
+Collision Course,Quibble Pants,1,2 Help,5 Info,Discard 3,,Mountain,
+Collision Course,,,,,,,,
+Collision Course,,,,,,,,
+Collision Course,,,,,,,,
+Collision Course,,,,,,,,
+Collision Course,,,,,,,,
+Collision Course,,,,,,,,
+Collision Course,,,,,,,,

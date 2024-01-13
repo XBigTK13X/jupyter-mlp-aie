@@ -1,0 +1,49 @@
+Set,Name,Level,Per Pony Cloud,Static Cloud,Cost,Reward,Chaos
+Base,"Razer, the Napping Dragon",1,2,2,1 Blue Cube,1 Draw per Player,2 Help
+Base,Too Many Suggestions,1,2,4,2 Cube,1 Trash per Player,1 Cube
+Base,Parasprites,1,2,2,1 Green Cube,-1 Cloud,1 Move
+Base,Stampede,1,2,2,1 Red Cube,1 Buy,1 Info
+Base,Evil Enchantress,2,2,1,2 Red Cube,"1 Red Cube, 1 Blue Cube",1 Move
+Base,Leap of Faith,2,2,3,3 Cube,1 Location per Player,2 Help
+Base,You. Need. Help.,2,2,1,2 Blue Cube,"1 Blue Cube, 1 Green Cube",1 Cube
+Base,It's On,2,2,1,2 Green Cube,"1 Green Cube, 1 Red Cube",1 Info
+Base,Spike vs. Owlowiscious,3,2,0,3 Red Cube,2 Cube,2 Help
+Base,I've Got a Much Better Idea,3,2,0,3 Blue Cube,1 Buy,1 Move
+Base,Pinkie's Real Friends,3,2,2,4 Cube,1 Draw,1 Cube
+Base,Nurse You Back to Health,3,2,0,3 Green Cube,Condition,1 Info
+Familar Faces,The Peanut Butter Hoof Gang,1,2,2,1 Green Cube,"1 Location, 1 Task",1 Green Cube
+Familar Faces,Friendship Lesson: Apology,1,2,2,1 Red Cube,1 Buy,2 Help
+Familar Faces,Perfect Tea Party,1,2,2,1 Blue Cube,1 Arrange,1 Trait
+Familar Faces,The Parents,2,2,2,"1 Green Cube, 1 Blue Cube",Condition,1 Trait
+Familar Faces,I've Got Your Flank,2,2,3,"1 Blue Cube, 1 Red Cube",1 Refresh per Player,1 Move
+Familar Faces,Face the Squizard,2,2,2,"1 Green Cube, 1 Blue Cube",1 Delay,1 Action
+Familar Faces,Dread Maulwurf,3,2,1,"2 Blue Cube, 1 Green Cube",1 Buy,1 Resource Token
+Familar Faces,Sludge,3,2,1,"2 Green Cube, 1 Red Cube",2 Cube,1 Trait
+Familar Faces,Daybreaker,3,2,4,"2 Red Cube, 1 Blue Cube","1 Info Token, 1 Move Token",1 Red Cube
+True Talents,The Hooffields & McColts,1,2,2,1 Red Cube,2 Task,1 Info
+True Talents,"So, How Was the Trip?",1,2,2,1 Blue Cube,1 Cube,1 Blue Cube
+True Talents,That's Flutterbat,1,2,2,1 Green Cube,1 Cube per Player,1 Trait
+True Talents,"You Can Call Me ""Princess Spike""",2,2,2,"1 Red Cube, 1 Green Cube",2 Info Token/1 Blue Cube,1 Trait
+True Talents,Yaks No Need Pony Help!,2,2,2,"1 Blue Cube, 1 Red Cube",2 Help Token/1 Green Cube,1 Ally
+True Talents,A Vote for More Diamond Tiara!,2,2,2,"1 Green Cube, 1 Blue Cube",2 Move Token/1 Red Cube,2 Help
+True Talents,There Isn't Much Time,3,2,1,3 Cube,2 Trash,2 Help
+True Talents,We're Not Flawless,3,2,1,3 Cube,-1 Cloud,1 Trait
+True Talents,Swamp Fever,3,2,2,3 Cube,1 Draw,1 Resource Token
+Princess Pageantry,A Mmmm-Mystery is Afoot!,1,2,2,1 Red Cube,1 Refresh,1 Move
+Princess Pageantry,Welcoming the Breezies,1,2,2,1 Green Cube,1 Buy,1 Cube
+Princess Pageantry,Give...Us...Cookies...!,1,2,2,1 Blue Cube,1 Trash,1 Resource Token
+Princess Pageantry,The Mysterious Mare Do Well,2,2,2,"1 Blue Cube, 1 Red Cube",1 Location,2 Help
+Princess Pageantry,Who's the Real Pinkie Pie?,2,2,2,"1 Red Cube, 1 Green Cube",1 Refashion,1 Info
+Princess Pageantry,That Smooth-Talkin' Feather Bangs,2,2,2,"1 Green Cube, 1 Blue Cube",2 Resource Token,1 Action
+Princess Pageantry,What My Cutie Mark is Telling Me,3,2,2,"2 Blue Cube, 1 Red Cube",1 Cube,1 Cube
+Princess Pageantry,A Changeling Can Change,3,2,2,"2 Red Cube, 1 Green Cube",-1 Cloud,1 Resource Token
+Princess Pageantry,The Mean Six,3,2,1,"2 Green Cube, 1 Blue Cube",1 Shuffle,1 Trait
+Collision Course,Misfire & The Rainmakers,1,2,2,1 Blue Cube,1 Buy,1 Action
+Collision Course,Slipstream & Thundercracker,1,2,2,1 Red Cube,1 Draw/1 Trash,3 Help
+Collision Course,Arachnid & Shadow Striker,1,2,2,1 Green Cube,Condition,1 Ally
+Collision Course,Murderkind A.K.A. The Killmaster!,2,2,1,2 Blue Cube,2 Resource Token,2 Move
+Collision Course,Breakdown,2,2,1,2 Green Cube,3 New Cube,1 Cube
+Collision Course,Mindwipe & Skullcruncher,2,2,1,2 Red Cube,-1 Cloud,1 Blue Cube
+Collision Course,Starscream,3,2,0,3 Green Cube,1 Hand Size,2 Info
+Collision Course,Shockwave,3,2,0,3 Red Cube,2 Trash,1 Red Cube
+Collision Course,Devastator,3,2,0,3 Blue Cube,Condition,1 Green Cube

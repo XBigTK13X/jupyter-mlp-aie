@@ -1,0 +1,22 @@
+Set,Name,Cost,Reward
+Base,Loyalty Element,6 Help,2 Red Cube
+Base,Kindness Element,6 Help,5 Draw
+Base,Generosity Element,6 Help,5 Help
+Base,Honesty Element,6 Help,2 Green Cube
+Base,Laughter Element,6 Help,1 Draw
+Base,Magic Element,6 Help,2 Blue Cube
+Familiar Faces,Star Swirl's Journal,6 Help,Condition
+Familiar Faces,Somnambula's Blindfold,6 Help,-3 Cloud
+Familiar Faces,Mage Meadowbrook's Mask,6 Help,Condition
+Familiar Faces,Flash Magnus' Shield,6 Help,"1 Cube, 1 Refresh"
+Familiar Faces,Mistmane's Everlasting Flower,6 Help,1 Buy
+Familiar Faces,Rockhoof's Shovel,6 Help,Condition
+True Talents,Crystal Heart,7 Help,4 Cube
+Princess Pageantry,Boneless,5 Help,3 New Cube
+Princess Pageantry,Alicorn Amulet,4 Help,"2 Draw, -1 Cube"
+Princess Pageantry,Pinkie Pie's Party Cannon,5 Help,-1 Situation
+Princess Pageantry,Boulder,5 Help,5 Info
+Princess Pageantry,"Apple Family History, Volume 137",5 Help,2 Trash
+Princess Pageantry,Smarty Pants,5 Help,1 Cube per Player
+Collision Course,101 Ways to Git 'Em Good,4 Help,4 Resource Token
+Collision Course,"""Funny Book From That Pony World""",6 Help,2 Cube
