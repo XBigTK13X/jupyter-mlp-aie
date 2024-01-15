@@ -1,80 +1,80 @@
-Set,Name,Copies,Cost,Reward,Ability Cost,Ability Reward
-Base,Balloon Ride,2,4 Help,"1 Info, 2 Move",1 Discard,1 Draw
-Base,Sonic Rainboom,2,3 Info,2 Help,,1 Move per Ally
-Base,Fresh Cider,2,2 Info,2 Help,,
-Base,Along for the Ride,2,2 Help,2 Move,,
-Base,Consulting a Good Book,2,3 Info,1 Info,,1 New Cube
-Base,Cloud Punching,3,3 Help,2 Move,1 Cube,-1 Cloud
-Base,Scroll From Canterlot,3,2 Move,2 Info,,
-Base,Green is Your Color,4,3 Move,1 Green Cube,,
-Base,Blue Skies,4,3 Info,1 Blue Cube,,
-Base,Pinkie Sense,4,4 Info,1 Red Cube,,
-Familiar Faces,Going to the Grand Galloping Gala,2,3 Help,1 Info,Discover,Condition
-Familiar Faces,Apology Tour,2,5 Move,1 Green Cube,,Discount
-Familiar Faces,Be My Wingpony,2,4 Help,4 Move,Discover,1 Retask
-Familiar Faces,Overcoming Differences,2,5 Info,1 Blue Cube,,Discount
-Familiar Faces,The Dragon Code,2,5 Help,1 Red Cube,,Discount
-Familiar Faces,Playing Dragon Pit,2,5 Help,,,1 Blue Cube/1 Red Cube
-Familiar Faces,Consult the Cutie Map,1,4 Info,"1 Help, 1 Info, 2 Move, 1 Cloud",,Condition
-Familiar Faces,The Unicorn Escape,2,3 Help,1 Move,,Condition
-Familiar Faces,Hibernating for the Winter,2,3 Help,2 Info,,Condition
-Familiar Faces,Incoming!,2,5 Move,"2 Info, 2 Move",,Discount
-Familiar Faces,Find the Friendship Problem,1,7 Help,"3 Help, 3 Info, 1 Cloud",,Discount
-Familiar Faces,Makeover,2,4 Help,,,1 Buy
-Familiar Faces,Sitting the Critters,2,3 Help,"1 Info, 1 Move",,Condition
-Familiar Faces,Transfiguration,2,4 Info,,,Multiply
-Familiar Faces,Teleportation,1,5 Help,4 Move,Remove,Situation
-Familiar Faces,Training with the Wonderbolts,2,2 Move,1 Move,Discover,1 Move Token
-True Talents,High Roller Hustle,1,5 Info,"2 Help, 2 Info",,"1 Draw, 1 Trash"
-True Talents,"Bump, Bump, Sugarlump, Rump!",1,5 Info,2 Info,Discover,Condition
-True Talents,Crusaders Forever!,2,5 Help,"2 Help, 1 Info, 1 Move",Discover,Condition
-True Talents,A Distraction's a Distraction,2,5 Help,,,1 Red Cube/1 Green Cube
-True Talents,Friendship is Illogical,1,4 Info,1 Info,Condition,1 Cube
-True Talents,"Buy One, Get One Free?!",2,4 Info,"1 Info, 1 Move",,1 Buy
-True Talents,Shine From the Inside Out,2,4 Help,"1 Help, 1 Move",,1 Delay
-True Talents,Mind Over Matter!,1,4 Help,1 Move,,"2 Draw, 1 Trash"
-True Talents,Great Wickering Stallions!,2,4 Help,"1 Info, 1 Move",,1 Trash
-True Talents,Friendship Field Trip,2,3 Move,1 Info,,"1 Location, 1 Info Token"
-True Talents,A Mile in Each Other's Shoes,2,3 Move,"2 Help, 1 Info",,Condition
-True Talents,Graduation Day,2,3 Info,1 Move,,1 Draw
-True Talents,That's the Spirit!,2,3 Help,"1 Help, 1 Info",Condition,Condition
-True Talents,Taking the Stage,2,2 Help,"1 Help, 1 Move",,1 Buy
-True Talents,Emergency Guys' Night,2,2 Help,,,1 Help Token
-True Talents,Can't We Be Friends?,1,3 Help,"1 Help, 1 Info, 1 Move, 1 Cloud",,Condition
-Princess Pageantry,The Purchase of a Lifetime,1,5 Help,1 Blue Cube,,Condition
-Princess Pageantry,To the Scene of the Crime,2,3 Move,1 Info,,Condition
-Princess Pageantry,Sister Trip!,2,2 Move,,,1 Move Token
-Princess Pageantry,Let the Games Begin!,2,3 Move,2 Move,,Condition
-Princess Pageantry,Do You Have a Monthly Payment Plan?,2,2 Info,1 Help,,3 Draw
-Princess Pageantry,Flim Flam Miracle Curative Tonic,1,4 Help,"1 Help, 1 Move",,Condition
-Princess Pageantry,Face Your Fears,1,4 Help,"1 Info, 1 Cloud",,2 Trash
-Princess Pageantry,Art is So Evocative!,2,3 Info,2 Info,,Condition
-Princess Pageantry,Ponies to Heavy on Vanilla Extract!,2,3 Help,2 Move,,1 Delay
-Princess Pageantry,Performing with the Pony Tones,2,3 Help,1 Help,,Condition
-Princess Pageantry,Who Doesn't Like Musical Theater?,1,3 Help,2 Info,,1 Help Token
-Princess Pageantry,No Rest for the Wizardly,2,4 Info,"1 Help, 1 Info, 1 Move",,Condition
-Princess Pageantry,Joining the Feelings Forum,1,5 Help,1 Green Cube,,Condition
-Princess Pageantry,Think You Can Out-Goof Me?,1,5 Help,1 Red Cube,,Condition
-Princess Pageantry,Becoming Teacher of the Month,2,3 Info,"1 Info, 1 Move",,Condition
-Princess Pageantry,Maybes Are For Babies!,1,4 Info,"2 Help, 2 Info, 2 Move, 1 Cloud",1 Cloud,
-Princess Pageantry,You'll Play Your Part,1,6 Help,"2 Help, 1 Info",,Condition
-Collision Course,Falling with Style,2,4 Help,1 Red Cube,,Condition
-Collision Course,United as One,2,5 Help,,,1 Green Cube/1 Blue Cube
-Collision Course,"Perfectly ""Panned"" Out",2,4 Move,1 Blue Cube,,Condition
-Collision Course,"""Boo-Boo Creme""",2,2 Info,,,1 Info Token
-Collision Course,Time to Kick Some Tail!,2,4 Help,1 Green Cube,,Condition
-Collision Course,Powerful Pets!,1,6 Help,2 Info,,1 Buy
-Collision Course,"Look Alive, Equestrian!",1,5 Info,,,2 Draw/2 Resource Token
-Collision Course,An Optimal Alliance,1,5 Info,"2 Info, 1 Move, 1 Energon",,Condition
-Collision Course,Take 'Em to the Bridge!,1,5 Info,1 Cloud,,3 Draw
-Collision Course,He Called Me Inspiring!,1,4 Info,"1 Info, 1 Energon",2 Resource Token,-1 Cloud
-Collision Course,Pause for Applause,1,4 Help,"2 Help, 1 Energon",,Condition
-Collision Course,I Gotcha!,1,4 Help,"1 Info, 1 Move",,Condition
-Collision Course,Friends Ditch Grimlock Again?,1,5 Help,"1 Help, 1 Move",Remove,1 Buy
-Collision Course,Reach Out From the Heart,1,4 Move,2 Move,,Condition
-Collision Course,A Boost From Big Mac,1,3 Move,1 Move,,Condition
-Collision Course,Iron Filing Casserole,1,3 Help,1 Blue Energon,,1 Draw/1 Trash
-Collision Course,Completely Outclassed!,1,3 Help,"1 Help, 1 Info, 1 Move, 1 Cloud",,Condition
-Collision Course,How Do You Like These Apples?,1,4 Help,"1 Info, 1 Move",,Condition
-Collision Course,Dramatic Makeover,1,4 Help,2 Help,,Condition
-Collision Course,Altus Volantis,1,4 Help,2 Help,,Condition
+Set,Name,Copies,Cost,Reward,Ability Cost,Ability Reward,Ability Trigger
+Base,Balloon Ride,2,4 Help,"1 Info, 2 Move",1 Discard,1 Draw,
+Base,Sonic Rainboom,2,3 Info,2 Help,,1 Move per Ally,
+Base,Fresh Cider,2,2 Info,2 Help,,,
+Base,Along for the Ride,2,2 Help,2 Move,,,
+Base,Consulting a Good Book,2,3 Info,1 Info,,1 New Cube,
+Base,Cloud Punching,3,3 Help,2 Move,1 Cube,-1 Cloud,
+Base,Scroll From Canterlot,3,2 Move,2 Info,,,
+Base,Green is Your Color,4,3 Move,1 Green Cube,,,
+Base,Blue Skies,4,3 Info,1 Blue Cube,,,
+Base,Pinkie Sense,4,4 Info,1 Red Cube,,,
+Familiar Faces,Going to the Grand Galloping Gala,2,3 Help,1 Info,Discover,Condition,Leader
+Familiar Faces,Apology Tour,2,5 Move,1 Green Cube,,Discount,Trait
+Familiar Faces,Be My Wingpony,2,4 Help,4 Move,Discover,1 Retask,Wonderbolt
+Familiar Faces,Overcoming Differences,2,5 Info,1 Blue Cube,,Discount,Trait
+Familiar Faces,The Dragon Code,2,5 Help,1 Red Cube,,Discount,Trait
+Familiar Faces,Playing Dragon Pit,2,5 Help,,,1 Blue Cube/1 Red Cube,
+Familiar Faces,Consult the Cutie Map,1,4 Info,"1 Help, 1 Info, 2 Move, 1 Cloud",,Condition,Ally
+Familiar Faces,The Unicorn Escape,2,3 Help,1 Move,,Condition,Trait
+Familiar Faces,Hibernating for the Winter,2,3 Help,2 Info,,Condition,
+Familiar Faces,Incoming!,2,5 Move,"2 Info, 2 Move",,Discount,Wonderbolt
+Familiar Faces,Find the Friendship Problem,1,7 Help,"3 Help, 3 Info, 1 Cloud",,Discount,Leader
+Familiar Faces,Makeover,2,4 Help,,,1 Buy,
+Familiar Faces,Sitting the Critters,2,3 Help,"1 Info, 1 Move",,Condition,
+Familiar Faces,Transfiguration,2,4 Info,,,Multiply,
+Familiar Faces,Teleportation,1,5 Help,4 Move,Remove,Situation,Situation
+Familiar Faces,Training with the Wonderbolts,2,2 Move,1 Move,Discover,1 Move Token,Wonderbolt
+True Talents,High Roller Hustle,1,5 Info,"2 Help, 2 Info",,"1 Draw, 1 Trash",
+True Talents,"Bump, Bump, Sugarlump, Rump!",1,5 Info,2 Info,Discover,Condition,Classmate
+True Talents,Crusaders Forever!,2,5 Help,"2 Help, 1 Info, 1 Move",Discover,Condition,Crusader
+True Talents,A Distraction's a Distraction,2,5 Help,,,1 Red Cube/1 Green Cube,
+True Talents,Friendship is Illogical,1,4 Info,1 Info,Condition,1 Cube,Flip
+True Talents,"Buy One, Get One Free?!",2,4 Info,"1 Info, 1 Move",,1 Buy,Action
+True Talents,Shine From the Inside Out,2,4 Help,"1 Help, 1 Move",,1 Delay,
+True Talents,Mind Over Matter!,1,4 Help,1 Move,,"2 Draw, 1 Trash",
+True Talents,Great Wickering Stallions!,2,4 Help,"1 Info, 1 Move",,1 Trash,
+True Talents,Friendship Field Trip,2,3 Move,1 Info,,"1 Location, 1 Info Token",Location
+True Talents,A Mile in Each Other's Shoes,2,3 Move,"2 Help, 1 Info",,Condition,
+True Talents,Graduation Day,2,3 Info,1 Move,,1 Draw,Ally
+True Talents,That's the Spirit!,2,3 Help,"1 Help, 1 Info",Condition,Condition,Crusader
+True Talents,Taking the Stage,2,2 Help,"1 Help, 1 Move",,1 Buy,Setback
+True Talents,Emergency Guys' Night,2,2 Help,,,1 Help Token,
+True Talents,Can't We Be Friends?,1,3 Help,"1 Help, 1 Info, 1 Move, 1 Cloud",,Condition,Crusader
+Princess Pageantry,The Purchase of a Lifetime,1,5 Help,1 Blue Cube,,Condition,
+Princess Pageantry,To the Scene of the Crime,2,3 Move,1 Info,,Condition,Location
+Princess Pageantry,Sister Trip!,2,2 Move,,,1 Move Token,
+Princess Pageantry,Let the Games Begin!,2,3 Move,2 Move,,Condition,Cloud
+Princess Pageantry,Do You Have a Monthly Payment Plan?,2,2 Info,1 Help,,3 Draw,Resource Token
+Princess Pageantry,Flim Flam Miracle Curative Tonic,1,4 Help,"1 Help, 1 Move",,Condition,
+Princess Pageantry,Face Your Fears,1,4 Help,"1 Info, 1 Cloud",,2 Trash,
+Princess Pageantry,Art is So Evocative!,2,3 Info,2 Info,,Condition,Situation
+Princess Pageantry,Ponies to Heavy on Vanilla Extract!,2,3 Help,2 Move,,1 Delay,
+Princess Pageantry,Performing with the Pony Tones,2,3 Help,1 Help,,Condition,Flip
+Princess Pageantry,Who Doesn't Like Musical Theater?,1,3 Help,2 Info,,1 Help Token,
+Princess Pageantry,No Rest for the Wizardly,2,4 Info,"1 Help, 1 Info, 1 Move",,Condition,Trait
+Princess Pageantry,Joining the Feelings Forum,1,5 Help,1 Green Cube,,Condition,
+Princess Pageantry,Think You Can Out-Goof Me?,1,5 Help,1 Red Cube,,Condition,
+Princess Pageantry,Becoming Teacher of the Month,2,3 Info,"1 Info, 1 Move",,Condition,
+Princess Pageantry,Maybes Are For Babies!,1,4 Info,"2 Help, 2 Info, 2 Move, 1 Cloud",1 Cloud,,
+Princess Pageantry,You'll Play Your Part,1,6 Help,"2 Help, 1 Info",,Condition,Leader
+Collision Course,Falling with Style,2,4 Help,1 Red Cube,,Condition,Ally
+Collision Course,United as One,2,5 Help,,,1 Green Cube/1 Blue Cube,Ally
+Collision Course,"Perfectly ""Panned"" Out",2,4 Move,1 Blue Cube,,Condition,Location
+Collision Course,"""Boo-Boo Creme""",2,2 Info,,,1 Info Token,Ally
+Collision Course,Time to Kick Some Tail!,2,4 Help,1 Green Cube,,Condition,Autobot
+Collision Course,Powerful Pets!,1,6 Help,2 Info,,1 Buy,
+Collision Course,"Look Alive, Equestrian!",1,5 Info,,,2 Draw/2 Resource Token,
+Collision Course,An Optimal Alliance,1,5 Info,"2 Info, 1 Move, 1 Energon",,Condition,
+Collision Course,Take 'Em to the Bridge!,1,5 Info,1 Cloud,,3 Draw,
+Collision Course,He Called Me Inspiring!,1,4 Info,"1 Info, 1 Energon",2 Resource Token,-1 Cloud,Resource Token
+Collision Course,Pause for Applause,1,4 Help,"2 Help, 1 Energon",,Condition,Decepticon
+Collision Course,I Gotcha!,1,4 Help,"1 Info, 1 Move",,Condition,Battery
+Collision Course,Friends Ditch Grimlock Again?,1,5 Help,"1 Help, 1 Move",Remove,1 Buy,Ally
+Collision Course,Reach Out From the Heart,1,4 Move,2 Move,,Condition,Ally
+Collision Course,A Boost From Big Mac,1,3 Move,1 Move,,Condition,Situation
+Collision Course,Iron Filing Casserole,1,3 Help,1 Blue Energon,,1 Draw/1 Trash,
+Collision Course,Completely Outclassed!,1,3 Help,"1 Help, 1 Info, 1 Move, 1 Cloud",,Condition,Autobot
+Collision Course,How Do You Like These Apples?,1,4 Help,"1 Info, 1 Move",,Condition,Trait
+Collision Course,Dramatic Makeover,1,4 Help,2 Help,,Condition,Battery
+Collision Course,Altus Volantis,1,4 Help,2 Help,,Condition,Battery
