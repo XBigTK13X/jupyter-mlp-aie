@@ -98,3 +98,26 @@ Collision Course,Gauge,1,4 Info,"1 Move, 1 Green Energon",,"1 Draw, 1 Resource T
 Collision Course,Octavia Melody,1,3 Help,1 Info,,1 Resource Token,,Moon,
 Collision Course,Lofty & Holiday,1,3 Help,2 Move,,Condition,Keyword,"Moon, Mountain",
 Collision Course,Quibble Pants,1,2 Help,5 Info,Discard 3,,,Mountain,
+Scholarly Shenanigans,Gallus,1,4 Help,"1 Info, 1 Move",,"1 Swap, 1 Draw",Character,"Moon, Mountain",Graduate
+Scholarly Shenanigans,Ocellus,1,4 Help,"1 Help, 2 Move",,1 Trash,Character,"Moon, Mountain",Graduate
+Scholarly Shenanigans,Sandbar,1,4 Help,"1 Help, 1 Move",,"1 Draw, 1 Trash",Character,"Moon, Star",Graduate
+Scholarly Shenanigans,Silverstream,1,4 Help,"1 Help, 2 Info",,1 Draw/1 Resource Token,Character,"Moon, Star",Graduate
+Scholarly Shenanigans,Smolder,1,4 Help,"2 Help, 1 Move",,2 Swap,Character,"Mountain, Star",Graduate
+Scholarly Shenanigans,"Starlight Glimmer, Guidance Counselor",1,5 Help,"2 Help, 1 Info",,1 Draw,Graduate,"Moon, Star",
+Scholarly Shenanigans,"Twilight Sparkle, Principal",1,5 Info,"2 Help, 1 Move",,Condition,Graduate,"Moon, Mountain",Leader
+Scholarly Shenanigans,"Flim & Flam, No Plan to Sham",1,2 Info,"1 Help, 1 Info, 1 Move",,2 Swap/ 3 Swap,,Star,
+Scholarly Shenanigans,Marble & Limestone Pie,1,4 Info,"1 Help, 1 Move",,1 Draw/ Condition,Ally,"Moon, Mountain",
+Scholarly Shenanigans,Pound & Pumpkin Cake,1,3 Move,,,2 Help / Condition,Market Card,Moon,
+Scholarly Shenanigans,Princess Celestia & Princess Luna,1,5 Help,"1 Help, 1 Info, 1 Move",,"1 Trash, 2 Trash",Cube,"Mountain, Star",
+Scholarly Shenanigans,Sky Stinger & Vapor Trail,1,3 Info,1 Info,,"1 Location, 1 Draw",,"Mountain, Star",
+Scholarly Shenanigans,Trixie & Starlight Glimmer,1,2 Info,,,1 Draw/ Condition,Resource Token,"Mountain, Star",
+Scholarly Shenanigans,Yona,1,4 Help,"1 Info, 1 Move",,1 Draw,Character,"Mountain, Star",Graduate
+Scholarly Shenanigans,Cloud Chaser & Flitter,1,4 Move,1 Help,,1 Resource Token/Condition,Resource Token,Moon,
+Scholarly Shenanigans,Coriander Cumin & Saffron Masala,1,5 Help,1 Info,,1 Discard,,Mountain,
+Scholarly Shenanigans,Diamond Tiara & Silver Spoon,1,2 Help,2 Move,,1 Cube/ 2 Cube,,"Mountain, Star",
+Scholarly Shenanigans,,,,,,,,,
+Scholarly Shenanigans,,,,,,,,,
+Scholarly Shenanigans,,,,,,,,,
+Scholarly Shenanigans,,,,,,,,,
+Scholarly Shenanigans,,,,,,,,,
+Scholarly Shenanigans,,,,,,,,,
